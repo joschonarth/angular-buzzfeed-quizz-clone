@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "buzzfeed-project": {
+    "buzzfeed-clone": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -23,7 +23,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:application",
           "options": {
-            "outputPath": "dist/buzzfeed-project",
+            "outputPath": "dist/buzzfeed-clone",
             "index": "src/index.html",
             "browser": "src/main.ts",
             "polyfills": [
@@ -66,10 +66,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "buzzfeed-project:build:production"
+              "buildTarget": "buzzfeed-clone:build:production"
             },
             "development": {
-              "buildTarget": "buzzfeed-project:build:development"
+              "buildTarget": "buzzfeed-clone:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -96,8 +96,5 @@
         }
       }
     }
-  },
-  "cli": {
-    "analytics": false
   }
 }
