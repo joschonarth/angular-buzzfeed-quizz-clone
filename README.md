@@ -6,7 +6,7 @@ O objetivo deste quiz é ajudar os usuários a descobrirem se têm mais afinidad
 
 
 <p align="center">
-  <img src="BuzzFeedClone.gif">
+  <img src="assets/BuzzFeedClone.gif">
 </p>
 
 ## ⚙️ Funcionalidades 
@@ -51,6 +51,9 @@ ng serve
 
 5. Abra o navegador e acesse `http://localhost:4200` para visualizar o projeto.
 
+## 🌐 Acesse o Site
+
+Você pode visualizar o projeto e responder o quiz [aqui](https://angular-buzzfeed-quizz-clone-joschonarth-projects.vercel.app/).
 
 ## 🎨 Personalização 
 
