@@ -1,55 +1,55 @@
 {
-  "title":"Você seria um heroi ou vilão ?",
-  "questions":[
+  "title": "Você será um Desenvolvedor Front-End ou Back-End?",
+  "questions": [
     {
-      "id":1,
-      "question": "Qual super poder você escolheria ?",
-      "options":[
-        {"id": 1, "name":"Raios-Lasers", "alias":"A"},
-        {"id": 2, "name":"Voar", "alias":"B"},
-        {"id": 3, "name":"Explodir coisas", "alias":"A"},
-        {"id": 4, "name":"Curar feridas", "alias":"B"},
-        {"id": 5, "name":"Soltar fogo pelas mãos", "alias":"A"}
+      "id": 1,
+      "question": "Qual tecnologia você escolheria para dominar?",
+      "options": [
+        {"id": 1, "name": "React", "alias": "A"},
+        {"id": 2, "name": "Node.js", "alias": "B"},
+        {"id": 3, "name": "Angular", "alias": "A"},
+        {"id": 4, "name": "Django", "alias": "B"},
+        {"id": 5, "name": "Spring Boot", "alias": "B"}
       ]
     },
     {
-      "id":2,
-      "question": "Quem você salvaria primeiro ?",
-      "options":[
-        {"id": 1, "name":"Crianças", "alias":"A"},
-        {"id": 2, "name":"Idosos", "alias":"A"},
-        {"id": 3, "name":"Não saberia escolher", "alias":"B"}
+      "id": 2,
+      "question": "Qual é o seu maior foco ao desenvolver um projeto?",
+      "options": [
+        {"id": 1, "name": "Experiência do usuário", "alias": "A"},
+        {"id": 2, "name": "Performance do servidor", "alias": "B"},
+        {"id": 3, "name": "Design responsivo", "alias": "A"}
       ]
     },
     {
-      "id":3,
-      "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
-      "options":[
-        {"id": 1, "name":"Não destruir prédios", "alias":"B"},
-        {"id": 2, "name":"Socar a cara do inimigo", "alias":"A"},
-        {"id": 3, "name":"Não sujar meu traje", "alias":"A"},
-        {"id": 4, "name":"Não deixar ninguém se ferir", "alias":"B"}
+      "id": 3,
+      "question": "Qual é a sua maior preocupação ao enfrentar um bug?",
+      "options": [
+        {"id": 1, "name": "Corrigir rapidamente a interface", "alias": "A"},
+        {"id": 2, "name": "Achar a causa raiz no código-fonte", "alias": "B"},
+        {"id": 3, "name": "Garantir que o layout não seja afetado", "alias": "A"},
+        {"id": 4, "name": "Verificar a lógica de negócios", "alias": "B"}
       ]
     },
     {
-      "id":4,
-      "question": "Qual o seu maior foco ?",
-      "options":[
-        {"id": 1, "name":"Ficar rico com poderes", "alias":"A"},
-        {"id": 2, "name":"Salvar a cidade", "alias":"B"}
+      "id": 4,
+      "question": "O que mais te interessa aprender?",
+      "options": [
+        {"id": 1, "name": "Desenvolvimento de interfaces interativas", "alias": "A"},
+        {"id": 2, "name": "Arquitetura de software e escalabilidade", "alias": "B"}
       ]
     },
     {
-      "id":5,
-      "question": "Qual o seu apelido de super ser ?",
-      "options":[
-        {"id": 1, "name":"O Terrivel", "alias":"A"},
-        {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
+      "id": 5,
+      "question": "Qual ambiente de desenvolvimento você prefere?",
+      "options": [
+        {"id": 1, "name": "Editor de texto com várias extensões", "alias": "A"},
+        {"id": 2, "name": "Terminal com ferramentas de automação", "alias": "B"}
       ]
     }
   ],
-  "results":{
-    "A": "Você muito provavelmente seria um super vilão!",
-    "B": "Você muito provavelmente seria um super Herói!"
+  "results": {
+    "A": "Você muito provavelmente será um Desenvolvedor Front-End!",
+    "B": "Você muito provavelmente será um Desenvolvedor Back-End!"
   }
 }
