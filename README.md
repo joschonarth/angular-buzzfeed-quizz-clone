@@ -6,7 +6,7 @@ O objetivo deste quiz é ajudar os usuários a descobrirem se têm mais afinidad
 
 
 <p align="center">
-  <img src="assets/BuzzFeedClone.gif">
+  <img src="assets/buzzfeed.gif">
 </p>
 
 ## ⚙️ Funcionalidades 
