@@ -8,7 +8,6 @@
   border-radius: 12px;
 }
 
-
 .quizz_logo {
   display: flex;
   flex-direction: column;
@@ -24,7 +23,6 @@
   color: #ffffff;
   text-align: center;
 }
-
 
 .quizz_questions {
   display: flex;

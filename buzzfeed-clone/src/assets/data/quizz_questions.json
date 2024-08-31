@@ -46,6 +46,22 @@
         {"id": 1, "name": "Editor de texto com várias extensões", "alias": "A"},
         {"id": 2, "name": "Terminal com ferramentas de automação", "alias": "B"}
       ]
+    },
+    {
+      "id": 6,
+      "question": "Qual aspecto te atrai mais em um projeto de desenvolvimento?",
+      "options": [
+        {"id": 1, "name": "Criar interfaces intuitivas e visuais", "alias": "A"},
+        {"id": 2, "name": "Desenvolver a lógica e os processos do sistema", "alias": "B"}
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Como você prefere testar seu código?",
+      "options": [
+        {"id": 1, "name": "Testes de interface e experiência do usuário", "alias": "A"},
+        {"id": 2, "name": "Testes de integração e unitários", "alias": "B"}
+      ]
     }
   ],
   "results": {
